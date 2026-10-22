@@ -1,0 +1,10 @@
+{
+  "name": "卡客车轮胎参数查询",
+  "short_name": "卡客车轮胎参数",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#0057a8",
+  "lang": "zh-CN",
+  "description": "面向OE客户技术经理和大客户经理的卡客车轮胎参数移动查询工具"
+}
